@@ -12,7 +12,7 @@ The application requires the standard node package manager installation in the r
 ## Video Demonstration
 [Click to watch video](https://drive.google.com/file/d/1G6aGrgbTg_sgFvB1cEcdhGkDEBwS479s/view?usp=sharing)
 
-
+## Screenshot
 ![Screenshot](image.png)
 
 
