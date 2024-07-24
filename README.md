@@ -10,8 +10,7 @@ The application requires the standard node package manager installation in the r
  Once these are installed, the application can be run from the terminal with the command 'node index'. Once the user provides typed responses to all questions in the terminal, the custom .svg logo is created in the project folder. 
 
 ## Video Demonstration
-[Click to watch video](https://drive.google.com/file/d/1G6aGrgbTg_sgFvB1cEcdhGkDEBwS479s/view?usp=sharing)
-
+[Click to watch video](https://drive.google.com/file/d/1MGyn8t2JR2GjZ01KvIJ65KhLqnStJCMG/view) 
 ## Screenshot
 ![Screenshot](image.png)
 
